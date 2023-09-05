@@ -8,3 +8,4 @@ Math 2280 Course Materials for Students
 |                                                                          | [Practice Quiz 1](./quizzes/practice_quiz_01.pdf) | [Solutions](./quizzes/practice_quiz_01_solns.pdf) |
 |                                                                          | [Quiz 1](./quizzes/quiz_01.pdf)                   | [Solutions](./quizzes/quiz_01_solns.pdf) |
 |                                                                          |                 | [Day_4](./daily_lectures/day4.pdf) |
+|                                                                          | Homework 2      | 2.2a,c,e,g, 2.3b,d,g,h,k, 2.4b,c,f, 2.6a,b |
