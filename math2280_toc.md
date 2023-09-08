@@ -15,6 +15,6 @@ Math 2280 Course Materials for Students
 |                                                                          | Week 3          | [Day 6](./daily_lectures/daya.pdf) |
 |                                                                          |                 | [Day 7](./daily_lectures/dayb.pdf) |
 |                                                                          |                 | [Day 8](./daily_lectures/dayc.pdf) |
-|                                                                          | Homework 3      |  | 1.4c, 2.7e,f, 3.4b,cd, h, 3.5c,d,e,f, 3.6 |
+|                                                                          | Homework 3      | 1.4c, 2.7e,f, 3.4b,cd, h, 3.5c,d,e,f, 3.6 |
 |                                                                          | [Practice Quiz 3](./quizzes/practice_quiz_03.pdf) | [Solutions](./quizzes/practice_quiz_03_solns.pdf) |
 |                                                                          | [Quiz 3](./quizzes/quiz_03.pdf)                   | [Solutions](./quizzes/quiz_03_solns.pdf) |
