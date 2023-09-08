@@ -12,3 +12,9 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 2      | 2.2a,c,e,g, 2.3b,d,g,h,k, 2.4b,c,f, 2.6a,b |
 |                                                                          | [Practice Quiz 2](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
 |                                                                          | [Quiz 2](./quizzes/quiz_02.pdf)                   | [Solutions](./quizzes/quiz_02_solns.pdf) |
+|                                                                          | Week 3          | [Day 6](./daily_lectures/daya.pdf) |
+|                                                                          |                 | [Day 7](./daily_lectures/dayb.pdf) |
+|                                                                          |                 | [Day 8](./daily_lectures/dayc.pdf) |
+|                                                                          | Homework 3      |  |
+|                                                                          | [Practice Quiz 2](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
+|                                                                          | [Quiz 2](./quizzes/quiz_02.pdf)                   | [Solutions](./quizzes/quiz_02_solns.pdf) |
