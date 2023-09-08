@@ -16,5 +16,5 @@ Math 2280 Course Materials for Students
 |                                                                          |                 | [Day 7](./daily_lectures/dayb.pdf) |
 |                                                                          |                 | [Day 8](./daily_lectures/dayc.pdf) |
 |                                                                          | Homework 3      |  |
-|                                                                          | [Practice Quiz 2](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
-|                                                                          | [Quiz 2](./quizzes/quiz_02.pdf)                   | [Solutions](./quizzes/quiz_02_solns.pdf) |
+|                                                                          | [Practice Quiz 3](./quizzes/practice_quiz_03.pdf) | [Solutions](./quizzes/practice_quiz_03_solns.pdf) |
+|                                                                          | [Quiz 3](./quizzes/quiz_03.pdf)                   | [Solutions](./quizzes/quiz_03_solns.pdf) |
