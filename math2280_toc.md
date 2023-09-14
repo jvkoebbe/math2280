@@ -21,6 +21,6 @@ Math 2280 Course Materials for Students
 |                                                                          | Week 4          | [Day 9](./daily_lectures/day9.pdf) |
 |                                                                          |                 | [Day 10](./daily_lectures/day10.pdf) |
 |                                                                          |                 | [Day 11](./daily_lectures/day11.pdf) |
-|                                                                          | Homework 4      | 4 |
+|                                                                          | Homework 4      | 4.3a,c,e,f,g,i, 4.4c,f, 4.5a,b, 4.6b,d, 4.7b,e,h,i, 4.8a,e, 4.10a,b |
 |                                                                          | [Practice Quiz 4](./quizzes/practice_quiz_04.pdf) | [Solutions](./quizzes/practice_quiz_04_solns.pdf) |
 |                                                                          | [Quiz 4](./quizzes/quiz_04.pdf)                   | [Solutions](./quizzes/quiz_04_solns.pdf) |
