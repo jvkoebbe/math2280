@@ -9,13 +9,13 @@ Math 2280 Course Materials for Students
 |                                                                          | [Quiz 1](./quizzes/quiz_01.pdf)                   | [Solutions](./quizzes/quiz_01_solns.pdf) |
 |                                                                          | Week 2          | [Day 4](./daily_lectures/day4.pdf) |
 |                                                                          |                 | [Day 5](./daily_lectures/day5.pdf) |
-|                                                                          | Homework 2      | [2.2a,c,e,g, 2.3b,d,g,h,k, 2.4b,c,f, 2.6a,b](./homework/hw_02_solns.pdf) |
+|                                                                          | Homework 2      | [2.2a,c,e,g, 2.3b,d,g,h,k, 2.4b,c,f, 2.6a,b](./homework_solutions/hw_02_solns.pdf) |
 |                                                                          | [Practice Quiz 2](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
 |                                                                          | [Quiz 2](./quizzes/quiz_02.pdf)                   | [Solutions](./quizzes/quiz_02_solns.pdf) |
 |                                                                          | Week 3          | [Day 6](./daily_lectures/day6.pdf) |
 |                                                                          |                 | [Day 7](./daily_lectures/day7.pdf) |
 |                                                                          |                 | [Day 8](./daily_lectures/day8.pdf) |
-|                                                                          | Homework 3      | [1.4c, 2.7e,f, 3.4b,c,d, h, 3.5(all), 3.6](./homework/hw_03_solns.pdf) |
+|                                                                          | Homework 3      | [1.4c, 2.7e,f, 3.4b,c,d, h, 3.5(all), 3.6](./homework_solutions/hw_03_solns.pdf) |
 |                                                                          | [Practice Quiz 3](./quizzes/practice_quiz_03.pdf) | [Solutions](./quizzes/practice_quiz_03_solns.pdf) |
 |                                                                          | [Quiz 3](./quizzes/quiz_03.pdf)                   | [Solutions](./quizzes/quiz_03_solns.pdf) |
 |                                                                          | Week 4          | [Day 9](./daily_lectures/day9.pdf) |
