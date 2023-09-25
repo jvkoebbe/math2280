@@ -24,3 +24,9 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 4      | 4.3a,c,e,f,g,i, 4.4c,f, 4.5a,b, 4.6b,d, 4.7b,e,h,i, 4.8a,e, 4.10a,b |
 |                                                                          | [Practice Exam 1](./exams/practice_exam_01.pdf) | [Solutions](./exams/practice_exam_01_solns.pdf) |
 |                                                                          | [Exam 1](./quizzes/quiz_04.pdf)                   | [Solutions](./exams/exam_01_solns.pdf) |
+|                                                                          | Week 5          | [Day 12](./daily_lectures/day12.pdf) |
+|                                                                          |                 | [Day 13](./daily_lectures/day13.pdf) |
+|                                                                          |                 | [Day 14](./daily_lectures/day14.pdf) |
+|                                                                          | Homework 5      | 5.1a,c,d,h,i,j, 5.2c,d,g,i, 5.3b,d,, 5.4b. 6.1b, 6.2, 6.3a,b,c, 6.4 |
+|                                                                          | [Practice Quiz 5](./quizzes/practice_quiz_05.pdf) | [Solutions](./quizzes/practice_quiz_05_solns.pdf) |
+|                                                                          | [Quiz 5](./quizzes/quiz_05.pdf)                   | [Solutions](./quizzes/quiz_05_solns.pdf) |
