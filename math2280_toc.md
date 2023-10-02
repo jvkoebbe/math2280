@@ -21,13 +21,13 @@ Math 2280 Course Materials for Students
 |                                                                          | Week 4          | [Day 9](./daily_lectures/day9.pdf) |
 |                                                                          |                 | [Day 10](./daily_lectures/day10.pdf) |
 |                                                                          |                 | [Day 11](./daily_lectures/day11.pdf) |
-|                                                                          | Homework 4      | 4.3a,c,e,f,g,i, 4.4c,f, 4.5a,b, 4.6b,d, 4.7b,e,h,i, 4.8a,e, 4.10a,b |
+|                                                                          | Homework 4      | [4.3a,c,e,f,g,i, 4.4c,f, 4.5a,b, 4.6b,d, 4.7b,e,h,i, 4.8a,e, 4.10a,b](./homework_solutions/hw_04_solns.pdf) |
 |                                                                          | [Practice Exam 1](./exams/practice_exam_01.pdf) | [Solutions](./exams/practice_exam_01_solns.pdf) |
 |                                                                          | [Exam 1](./quizzes/quiz_04.pdf)                   | [Solutions](./exams/exam_01_solns.pdf) |
 |                                                                          | Week 5          | [Day 12](./daily_lectures/day12.pdf) |
 |                                                                          |                 | [Day 13](./daily_lectures/day13.pdf) |
 |                                                                          |                 | [Day 14](./daily_lectures/day14.pdf) |
-|                                                                          | Homework 5      | 5.1a,c,d,h,i,j, 5.2c,d,g,i, 5.3b,d, 5.4b. 6.1b, 6.2, 6.3a,b,c, 6.4 |
+|                                                                          | Homework 5      | [5.1a,c,d,h,i,j, 5.2c,d,g,i, 5.3b,d, 5.4b. 6.1b, 6.2, 6.3a,b,c, 6.4](./homework_solutions/hw_05_solns.pdf) |
 |                                                                          | [Practice Quiz 4](./quizzes/practice_quiz_04.pdf) | [Solutions](./quizzes/practice_quiz_04_solns.pdf) |
 |                                                                          | [Quiz 4](./quizzes/quiz_04.pdf)                   | [Solutions](./quizzes/quiz_04_solns.pdf) |
 |                                                                          | Week 6          | [Day 15](./daily_lectures/day15.pdf) |
