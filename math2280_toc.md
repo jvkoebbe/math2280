@@ -40,5 +40,6 @@ Math 2280 Course Materials for Students
 |                                                                          |                 | [Day 19](./daily_lectures/day19.pdf) |
 |                                                                          |                 | [Day 20](./daily_lectures/day20.pdf) |
 |                                                                          | Homework 7      | [9.2a,c,f, 9.3, 9.4, 9.5, 11.2, 11.4, 11.8, 11.9](./homework_solutions/hw_07_solns.pdf) |
+|                                                                          | Office 2 visit  | complete by Thursday, Oct 19                                                                 |
 |                                                                          | [Practice Quiz 6](./quizzes/practice_quiz_06.pdf) | [Solutions](./quizzes/practice_quiz_06_solns.pdf) |
 |                                                                          | [Quiz 6](./quizzes/quiz_06.pdf)                   | [Solutions](./quizzes/quiz_06_solns.pdf) |
