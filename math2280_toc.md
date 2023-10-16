@@ -45,6 +45,6 @@ Math 2280 Course Materials for Students
 |                                                                          | [Quiz 6](./quizzes/quiz_06.pdf)                   | [Solutions](./quizzes/quiz_06_solns.pdf) |
 |                                                                          | Week 8          | [Day 21](./daily_lectures/day21.pdf) |
 |                                                                          |                 | Day 22 Exam 2 in class|
-|                                                                          | Homework 8      | [8.10,8.11,8.15,8.21,8.24,13.a,c,f, 13.2b,f, 13.b,](./homework_solutions/hw_08_solns.pdf) |
+|                                                                          | Homework 8      | [8.10,8.11,8.15,8.21,8.24,13.a,c,f, 13.2b,f, 13.3b,](./homework_solutions/hw_08_solns.pdf) |
 |                                                                          | [Practice Exam 2](./exams/practice_exam_02.pdf) | [Solutions](./exams/practice_exam_02_solns.pdf) |
 |                                                                          | [Exam 2](./exams/exam_02.pdf)                   | [Solutions](./exams/exam_02_solns.pdf) |
