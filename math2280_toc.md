@@ -53,7 +53,7 @@ Math 2280 Course Materials for Students
 |                                                                          |                 | [Day 25](./daily_lectures/day25.pdf) |
 |                                                                          | Homework 9      | [13.3c,d, 13.4, b,d, 13.5,a,b,d,g, 13.6c,e,h, 13.7,a, 14.1a,c,e,g, 14.2,a,d,e, 14.3,a,b](./homework_solutions/hw_09_solns.pdf) |
 |                                                                          | [Practice Quiz 7](./quizzes/practice_quiz_07.pdf)      | [Solutions](./quizzes/practice_quiz_07_solns.pdf) |
-|                                                                          | [Quiz 7](./quizzes/quiz_07.pdf)                        | [Solutions](./quizzs/quiz_07_solns.pdf) |
+|                                                                          | [Quiz 7](./quizzes/quiz_07.pdf)                        | [Solutions](./quizzes/quiz_07_solns.pdf) |
 |                                                                          | Week 10         | [Day 26](./daily_lectures/day26.pdf) |
 |                                                                          |                 | [Day 27](./daily_lectures/day27.pdf) |
 |                                                                          |                 | [Day 28](./daily_lectures/day28.pdf) |
