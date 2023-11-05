@@ -59,4 +59,4 @@ Math 2280 Course Materials for Students
 |                                                                          |                 | [Day 28](./daily_lectures/day28.pdf) |
 |                                                                          | Homework 10     | [14.2h, 14.3c, 14.5a, 15.2b,e,g,h, 15.3, 15.5a, 15.6a,c, 15.7b, 15.8, 16.2, 16.5, 16.6c,d, 16.7 a,b](./homework_solutions/hw_10_solns.pdf) |
 |                                                                          | [Practice Quiz 8](./quizzes/practice_quiz_08.pdf)      | [Solutions](./quizzes/practice_quiz_08_solns.pdf) |
-|                                                                          | [Quiz 8](./quizzes/quiz_08.pdf)                        | [Solutions](./quizzs/quiz_08_solns.pdf) |
+|                                                                          | [Quiz 8](./quizzes/quiz_08.pdf)                        | [Solutions](./quizzes/quiz_08_solns.pdf) |
