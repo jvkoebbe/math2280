@@ -63,7 +63,7 @@ Math 2280 Course Materials for Students
 |                                                                          | Week 11         | [Day 29](./daily_lectures/day29.pdf) |
 |                                                                          |                 | [Day 30](./daily_lectures/day30.pdf) |
 |                                                                          |                 | [Day 31](./daily_lectures/day31.pdf) |
-|                                                                          | Homework 11     | [17.1b,f. 17.2e, 17.3a,e, 17.4b, 17.5a,c, 17.6d, 17.8a,b, 18.1(all),19.1c,d, 19.1c, 19.3a](./homework_solutions/hw_11_solns.pdf) |
+|                                                                          | Homework 11     | [17.1b,f. 17.2e, 17.3a,e, 17.4b, 17.5a,c, 17.6d, 17.8a,b, 18.1(all),19.1c,d, 19.2c, 19.3a](./homework_solutions/hw_11_solns.pdf) |
 |                                                                          | [Practice Quiz 9](./quizzes/practice_quiz_09.pdf)      | [Solutions](./quizzes/practice_quiz_09_solns.pdf) |
 |                                                                          | [Quiz 9](./quizzes/quiz_09.pdf)                        | [Solutions](./quizzes/quiz_09_solns.pdf) |
 
