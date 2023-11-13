@@ -69,7 +69,7 @@ Math 2280 Course Materials for Students
 |                                                                          | Week 12         | [Day 32](./daily_lectures/day32.pdf) |
 |                                                                          |                 | [Day 33](./daily_lectures/day33.pdf) |
 |                                                                          |                 | [Day 34](./daily_lectures/day34.pdf) |
-|                                                                          | Homework 12     | [](./homework_solutions/hw_12_solns.pdf) |
+|                                                                          | Homework 12     | [19.2e, 19,4bj], 20.1a,f,i, 20.2d. 20.4.c,e, 21.1a, 21.3, 21.5, 21.8 (./homework_solutions/hw_12_solns.pdf) |
 |                                                                          | [Practice Exam 3](./exams/practice_exam_03.pdf)        | [Solutions](./exams/practice_exam_03_solns.pdf) |
 |                                                                          | [Exam 3](./exams/exam_03.pdf)                          | [Solutions](./exams/exam_03_solns.pdf) |
 
