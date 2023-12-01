@@ -76,5 +76,11 @@ Math 2280 Course Materials for Students
 |                                                                          |                 | [Day 36](./daily_lectures/day36.pdf) |
 |                                                                          |                 | [Day 37](./daily_lectures/day37.pdf) |
 |                                                                          | Homework 13     | [24.1.a,b,c,d,e,f, 26.1, 26.3, 26,6,q,e, 26.7,c,e, 26.8,b,e, 26.9b,c, 26.10, 26.11.b,f, 26.12.c.d](./homework_solutions/hw_13_solns.pdf) |
-|                                                                          | [Practice Quiz 10](./quizzes/practice_quiz_10.pdf)     | [Solutions](./exams/practice_quiz_10_solns.pdf) |
-|                                                                          | [Quiz 10](./quizzea/exam_10.pdf)                       | [Solutions](./quizzes/quiz_10_solns.pdf) |
+|                                                                          | [Practice Quiz 10](./quizzes/practice_quiz_10.pdf)     | [Solutions](./quizzes/practice_quiz_10_solns.pdf) |
+|                                                                          | [Quiz 10](./quizzea/quiz_10.pdf)                       | [Solutions](./quizzes/quiz_10_solns.pdf) |
+|                                                                          | Week 14         | [Day 38](./daily_lectures/day38.pdf) |
+|                                                                          |                 | [Day 39](./daily_lectures/day39.pdf) |
+|                                                                          |                 | [Day 40](./daily_lectures/day40.pdf) |
+|                                                                          | Homework 14     | [27.1a,d,g,m, 27.2c,d, 27.5b, 28.1e,f, 28.2a,c,f, 28.4a, 28.5a,b, 28.9a, 29.2a,b,e,f](./homework_solutions/hw_14_solns.pdf) |
+|                                                                          | [Practice Quiz 11](./quizzes/practice_quiz_11.pdf)     | [Solutions](./quizzes/practice_quiz_11_solns.pdf) |
+|                                                                          | [Quiz 11](./quizzea/quiz_11.pdf)                       | [Solutions](./quizzes/quiz_11_solns.pdf) |
