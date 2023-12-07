@@ -84,3 +84,5 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 14     | [27.1a,d,g,m, 27.2c,d, 27.5b, 28.1e,f, 28.2a,c,f, 28.4a, 28.5a,b, 28.9a, 29.2a,b,e,f](./homework_solutions/hw_14_solns.pdf) |
 |                                                                          | [Practice Quiz 11](./quizzes/practice_quiz_11.pdf)     | [Solutions](./quizzes/practice_quiz_11_solns.pdf) |
 |                                                                          | [Quiz 11](./quizzea/quiz_11.pdf)                       | [Solutions](./quizzes/quiz_11_solns.pdf) |
+|                                                                          | Week 15         | Day 41: Final Exam                   |
+|                                                                          | Homework 15     | [28](./homework_solutions/hw_15_solns.pdf) |
