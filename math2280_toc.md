@@ -12,4 +12,3 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 2      | [1.4b, 1.6, 2.3i, 2.4c,e, 2.5, 2.7df](./homework_solutions/homework_02_solns.pdf) |
 |                                                                          | [Practice Quiz 1](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
 |                                                                          | [Quiz 2](./quizzes/quiz_02.pdf)                   | [Solutions](./quizzes/quiz_02_solns.pdf) |
-| 
