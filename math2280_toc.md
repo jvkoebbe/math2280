@@ -10,5 +10,11 @@ Math 2280 Course Materials for Students
 |                                                                 | Week 2 | [Day 4](./daily_lectures/day4.pdf) |
 |                                                                          |                 | [Day 5](./daily_lectures/day5.pdf) |
 |                                                                          | Homework 2      | [1.4b, 1.6, 2.3i, 2.4c,e, 2.5, 2.7df](./homework_solutions/homework_02_solns.pdf) |
-|                                                                          | [Practice Quiz 1](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
+|                                                                          | [Practice Quiz 2](./quizzes/practice_quiz_02.pdf) | [Solutions](./quizzes/practice_quiz_02_solns.pdf) |
 |                                                                          | [Quiz 2](./quizzes/quiz_02.pdf)                   | [Solutions](./quizzes/quiz_02_solns.pdf) |
+|                                                                 | Week 3 | [Day 6](./daily_lectures/day6.pdf) |
+|                                                                          |                 | [Day 7](./daily_lectures/day7.pdf) |
+|                                                                          |                 | [Day 8](./daily_lectures/day8.pdf) |
+|                                                                          | Homework 3      | [3](./homework_solutions/homework_03_solns.pdf) |
+|                                                                          | [Practice Quiz 3](./quizzes/practice_quiz_03.pdf) | [Solutions](./quizzes/practice_quiz_03_solns.pdf) |
+|                                                                          | [Quiz 3](./quizzes/quiz_03.pdf)                   | [Solutions](./quizzes/quiz_03_solns.pdf) |
