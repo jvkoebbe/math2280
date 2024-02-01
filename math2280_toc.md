@@ -18,7 +18,7 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 3      | [3.4a,b,d,e,f, 3.5a-j, 3.6, 4.3a,b,d,g, 4.4a,b,c,d,f, 4.5b, 4.6a,d, 4.7e,k, 4.8b, 5.1e,f,g](./homework_solutions/homework_03_solns.pdf) |
 |                                                                          | [Practice Quiz 3](./quizzes/practice_quiz_03.pdf) | [Solutions](./quizzes/practice_quiz_03_solns.pdf) |
 |                                                                          | [Quiz 3](./quizzes/quiz_03.pdf)                   | [Solutions](./quizzes/quiz_03_solns.pdf) |
-|                                                                 | Week 4 | [Day 9](./daily_lectures/day9.pdf) |
+| Prob Session Room: ENGR 201 6-8pm                               | Week 4 | [Day 9](./daily_lectures/day9.pdf) |
 |                                                                          |                 | [Day 10](./daily_lectures/day10.pdf) |
 |                                                                          |                 | [Day 11](./daily_lectures/day11.pdf) |
 |                                                                          | Homework 4      | [4.7i,h,l, 4.8f, 5.1h, 5.2b,d,f,g,h, 5.4b,c](./homework_solutions/homework_04_solns.pdf) |
