@@ -20,11 +20,11 @@ Math 2280 Course Materials for Students
 |                                                                          | [Quiz 3](./quizzes/quiz_03.pdf)                   | [Solutions](./quizzes/quiz_03_solns.pdf) |
 | Prob Session Room: ENGR 201 6-8pm                               | Week 4 | [Day 9](./daily_lectures/day9.pdf) |
 |                                                                          |                 | [Day 10](./daily_lectures/day10.pdf) |
-|                                                                          |                 | [Day 11](./daily_lectures/day11.pdf) |
+|                                                                          |                 | Exam Day |
 |                                                                          | Homework 4      | [4.7i,h,l, 4.8f, 5.1h, 5.2b,d,f,g,h, 5.4b,c](./homework_solutions/homework_04_solns.pdf) |
 |                                                                          | [Practice Exam 1](./exams/practice_exam_01.pdf) | [Solutions](./exams/practice_exam_01_solns.pdf) |
 |                                                                          | [Exam 1](./exams/exam_01.pdf)                   | [Solutions](./exams/exam_01_solns.pdf) |
-|                                                                 | Week 5 | [Day 12](./daily_lectures/day12.pdf) |
+|                                                                 | Week 5 | [Day 11](./daily_lectures/day12.pdf) |
 |                                                                          |                 | [Day 13](./daily_lectures/day13.pdf) |
 |                                                                          |                 | [Day 14](./daily_lectures/day14.pdf) |
 |                                                                          | Homework 4      | [6.1b. 6.2, 6.3b,c, 6,4, 6.5a,c, 6.7a,c,e,f,l,p, 7.1b,d, 7.3, 7.4a,b](./homework_solutions/homework_05_solns.pdf) |
