@@ -24,3 +24,9 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 4      | [4.7i,h,l, 4.8f, 5.1h, 5.2b,d,f,g,h, 5.4b,c](./homework_solutions/homework_04_solns.pdf) |
 |                                                                          | [Practice Exam 1](./exams/practice_exam_01.pdf) | [Solutions](./exams/practice_exam_01_solns.pdf) |
 |                                                                          | [Exam 1](./exams/exam_01.pdf)                   | [Solutions](./exams/exam_01_solns.pdf) |
+|                                                                 | Week 5 | [Day 12](./daily_lectures/day12.pdf) |
+|                                                                          |                 | [Day 13](./daily_lectures/day13.pdf) |
+|                                                                          |                 | [Day 14](./daily_lectures/day14.pdf) |
+|                                                                          | Homework 4      | [](./homework_solutions/homework_05_solns.pdf) |
+|                                                                          | [Practice Quiz 4](./quizzes/practice_quiz_04.pdf) | [Solutions](./quizzes/practice_quiz_04_solns.pdf) |
+|                                                                          | [Quiz 4](./quizzes/quiz_04.pdf)                   | [Solutions](./quizzes/quiz_04_solns.pdf) |
