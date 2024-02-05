@@ -27,6 +27,6 @@ Math 2280 Course Materials for Students
 |                                                                 | Week 5 | [Day 12](./daily_lectures/day12.pdf) |
 |                                                                          |                 | [Day 13](./daily_lectures/day13.pdf) |
 |                                                                          |                 | [Day 14](./daily_lectures/day14.pdf) |
-|                                                                          | Homework 4      | [](./homework_solutions/homework_05_solns.pdf) |
+|                                                                          | Homework 4      | [6.1b. 6.2, 6.3b,c, 6,4, 6.5a,c, 6.7a,c,e,f,l,p, 7.1b,d, 7.3, 7.4a,b](./homework_solutions/homework_05_solns.pdf) |
 |                                                                          | [Practice Quiz 4](./quizzes/practice_quiz_04.pdf) | [Solutions](./quizzes/practice_quiz_04_solns.pdf) |
 |                                                                          | [Quiz 4](./quizzes/quiz_04.pdf)                   | [Solutions](./quizzes/quiz_04_solns.pdf) |
