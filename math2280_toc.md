@@ -27,6 +27,12 @@ Math 2280 Course Materials for Students
 |                                                                 | Week 5 | [Day 11](./daily_lectures/day12.pdf) |
 |                                                                          |                 | [Day 13](./daily_lectures/day13.pdf) |
 |                                                                          |                 | [Day 14](./daily_lectures/day14.pdf) |
-|                                                                          | Homework 4      | [6.1b. 6.2, 6.3b,c, 6,4, 6.5a,c, 6.7a,c,e,f,l,p, 7.1b,d, 7.3, 7.4a,b](./homework_solutions/homework_05_solns.pdf) |
+|                                                                          | Homework 5      | [6.1b. 6.2, 6.3b,c, 6,4, 6.5a,c, 6.7a,c,e,f,l,p, 7.1b,d, 7.3, 7.4a,b](./homework_solutions/homework_05_solns.pdf) |
 |                                                                          | [Practice Quiz 4](./quizzes/practice_quiz_04.pdf) | [Solutions](./quizzes/practice_quiz_04_solns.pdf) |
 |                                                                          | [Quiz 4](./quizzes/quiz_04.pdf)                   | [Solutions](./quizzes/quiz_04_solns.pdf) |
+|                                                                 | Week 6 | [Day 15](./daily_lectures/day15.pdf) |
+|                                                                          |                 | [Day 16](./daily_lectures/day16.pdf) |
+|                                                                          |                 | [Day 17](./daily_lectures/day17.pdf) |
+|                                                                          | Homework 6      | [8.27, 8.28, 8.39, 8.40, 9.2c,e, 9.3, 9.4, 9.5, 9.6, 9.9](./homework_solutions/homework_06_solns.pdf) |
+|                                                                          | [Practice Quiz 5](./quizzes/practice_quiz_05.pdf) | [Solutions](./quizzes/practice_quiz_05_solns.pdf) |
+|                                                                          | [Quiz 5](./quizzes/quiz_05.pdf)                   | [Solutions](./quizzes/quiz_05_solns.pdf) |
