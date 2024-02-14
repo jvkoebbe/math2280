@@ -33,6 +33,6 @@ Math 2280 Course Materials for Students
 |                                                                 | Week 6 | [Day 15](./daily_lectures/day15.pdf) |
 |                                                                          |                 | [Day 16](./daily_lectures/day16.pdf) |
 |                                                                          |                 | [Day 17](./daily_lectures/day17.pdf) |
-| [Copy of Homework Problems](./homework_solutions/copy_of)                                         | Homework 6      | [8.27, 8.28, 8.39, 8.40, 9.2c,e, 9.3, 9.4, 9.5, 9.6, 9.9](./homework_solutions/homework_06_solns.pdf) |
+| [Chapter Problems](./homework_solutions/chpt9_probs.pdf)                 | Homework 6      | [8.27, 8.28, 8.39, 8.40, 9.2c,e, 9.3, 9.4, 9.5, 9.6, 9.9](./homework_solutions/homework_06_solns.pdf) |
 |                                                                          | [Practice Quiz 5](./quizzes/practice_quiz_05.pdf) | [Solutions](./quizzes/practice_quiz_05_solns.pdf) |
 |                                                                          | [Quiz 5](./quizzes/quiz_05.pdf)                   | [Solutions](./quizzes/quiz_05_solns.pdf) |
