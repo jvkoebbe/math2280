@@ -36,3 +36,8 @@ Math 2280 Course Materials for Students
 | [Chapter Problems](./homework_solutions/chpt9_probs.pdf)                 | Homework 6      | [8.27, 8.28, 8.39, 8.40, 9.2c,e, 9.3, 9.4, 9.5, 9.6, 9.9](./homework_solutions/homework_06_solns.pdf) |
 |                                                                          | [Practice Quiz 5](./quizzes/practice_quiz_05.pdf) | [Solutions](./quizzes/practice_quiz_05_solns.pdf) |
 |                                                                          | [Quiz 5](./quizzes/quiz_05.pdf)                   | [Solutions](./quizzes/quiz_05_solns.pdf) |
+|                                                                 | Week 7 | [Day 18](./daily_lectures/day18.pdf) |
+|                                                                          |                 | [Day 19](./daily_lectures/day19.pdf) |
+|                                                                          | Homework 7      | [11.2, 11.4, 11.8, 11.9, 13.c,e, 13.2e,f, 13.3c, 13.4b, 13.5c](./homework_solutions/homework_07_solns.pdf) |
+|                                                                          | [Practice Quiz 6](./quizzes/practice_quiz_06.pdf) | [Solutions](./quizzes/practice_quiz_06_solns.pdf) |
+|                                                                          | [Quiz 6](./quizzes/quiz_06.pdf)                   | [Solutions](./quizzes/quiz_06_solns.pdf) |
