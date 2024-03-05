@@ -47,3 +47,8 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 8      | [13.1f, 13.2j, 13.5i, 13.6a, 14.1b,e,h,i,l, 14.2ce,i,l, 14.3a,c, 14.5a](./homework_solutions/homework_08_solns.pdf) |
 |                                                                          | [Practice Exam 2](./exams/practice_exam_02.pdf) | [Solutions](./exams/practice_exam_02_solns.pdf) |
 |                                                                          | [Exam 2](./exams/exam_02.pdf)                   | [Solutions](./exams/exam_02_solns.pdf) |
+|                                                                 | Week 9 | [Day 23](./daily_lectures/day23.pdf) |
+|                                                                          |                 | [Day 24](./daily_lectures/day24.pdf) |
+|                                                                          | Homework 9      | [15.2a,b,e,g, 15.3, 15.5a, 15,6b, 17.1c,d, 17.2c,f, 17.3a,c, 17.4e, 17.5d](./homework_solutions/homework_09_solns.pdf) |
+|                                                                          | [Practice Quiz 7](./quizzes/practice_quiz_07.pdf) | [Solutions](./quizzes/practice_quiz_07_solns.pdf) |
+|                                                                          | [Quiz 7](./quizzes/quiz_07.pdf)                   | [Solutions](./quizzes/quiz_07_solns.pdf) |
