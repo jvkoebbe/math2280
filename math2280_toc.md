@@ -49,6 +49,13 @@ Math 2280 Course Materials for Students
 |                                                                          | [Exam 2](./exams/exam_02.pdf)                   | [Solutions](./exams/exam_02_solns.pdf) |
 |                                                                 | Week 9 | [Day 23](./daily_lectures/day23.pdf) |
 |                                                                          |                 | [Day 24](./daily_lectures/day24.pdf) |
+|                                                                          |                 | [Day 25](./daily_lectures/day25.pdf) |
 |                                                                          | Homework 9      | [15.2a,b,e,g, 15.3, 15.5a, 15,6b, 17.1c,d, 17.2c,f, 17.3a,c, 17.4e, 17.5d](./homework_solutions/homework_09_solns.pdf) |
 |                                                                          | [Practice Quiz 7](./quizzes/practice_quiz_07.pdf) | [Solutions](./quizzes/practice_quiz_07_solns.pdf) |
 |                                                                          | [Quiz 7](./quizzes/quiz_07.pdf)                   | [Solutions](./quizzes/quiz_07_solns.pdf) |
+|                                                                | Week 10 | [Day 26](./daily_lectures/day26.pdf) |
+|                                                                          |                  | [Day 27](./daily_lectures/day27.pdf) |
+|                                                                          |                  | [Day 28](./daily_lectures/day28.pdf) |
+|                                                                          | Homework 10      | [tba](./homework_solutions/homework_10_solns.pdf) |
+|                                                                          | [Practice Quiz 8](./quizzes/practice_quiz_08.pdf) | [Solutions](./quizzes/practice_quiz_08_solns.pdf) |
+|                                                                          | [Quiz 8](./quizzes/quiz_08.pdf)                   | [Solutions](./quizzes/quiz_08_solns.pdf) |
