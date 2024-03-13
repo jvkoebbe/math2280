@@ -44,7 +44,7 @@ Math 2280 Course Materials for Students
 | Problem Session for Exam II - Thursday, Feb 29 - 6pm to 8pm - ENGR-201   | Week 8 | [Day 20](./daily_lectures/day20.pdf) |
 |                                                                          |                 | [Day 21](./daily_lectures/day21.pdf) |
 |                                                                          |                 | [Day 22](./daily_lectures/day22.pdf) |
-|                                                                          | Homework 8      | [13.1f, 13.2j, 13.5i, 13.6a, 14.1b,e,h,i,l, 14.2ce,i,l, 14.3a,c, 14.5a](./homework_solutions/homework_08_solns.pdf) |
+|                                                                          | Homework 8      | [13.1f, 13.2j, 13.5i, 13.6a, 14.1b,e,h,i,l, 14.2c,e,i,l, 14.3a,c, 14.5a](./homework_solutions/homework_08_solns.pdf) |
 |                                                                          | [Practice Exam 2](./exams/practice_exam_02.pdf) | [Solutions](./exams/practice_exam_02_solns.pdf) |
 |                                                                          | [Exam 2](./exams/exam_02.pdf)                   | [Solutions](./exams/exam_02_solns.pdf) |
 |                                                                 | Week 9 | [Day 23](./daily_lectures/day23.pdf) |
