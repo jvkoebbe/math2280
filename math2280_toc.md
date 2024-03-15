@@ -56,6 +56,6 @@ Math 2280 Course Materials for Students
 |                                                                | Week 10 | [Day 26](./daily_lectures/day26.pdf) |
 |                                                                          |                  | [Day 27](./daily_lectures/day27.pdf) |
 |                                                                          |                  | [Day 28](./daily_lectures/day28.pdf) |
-|                                                                          | Homework 10      | [tba](./homework_solutions/homework_10_solns.pdf) |
+|                                                                          | Homework 10      | [17.1a, 17.2a, 17.3b, 17.4f, 17.5f, 17.8i,j,o,p, 17.9a,c,d, 18.1, 18.6a,b, 18.8, 19a,b,c,d](./homework_solutions/homework_10_solns.pdf) |
 |                                                                          | [Practice Quiz 8](./quizzes/practice_quiz_08.pdf) | [Solutions](./quizzes/practice_quiz_08_solns.pdf) |
 |                                                                          | [Quiz 8](./quizzes/quiz_08.pdf)                   | [Solutions](./quizzes/quiz_08_solns.pdf) |
