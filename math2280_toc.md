@@ -62,6 +62,6 @@ Math 2280 Course Materials for Students
 |                                                                | Week 11 | [Day 29](./daily_lectures/day29.pdf) |
 |                                                                          |                  | [Day 30](./daily_lectures/day30.pdf) |
 |                                                                          |                  | [Day 313](./daily_lectures/day31.pdf) |
-|                                                                          | Homework 11      | [19.2c, 19.3a, 19.4a,c, 20.1cehk, 20.4, 21.1b, 21.2c, 21.4, 21.5, 21.7, 21.10, 21.12](./homework_solutions/homework_11_solns.pdf) |
+|                                                                          | Homework 11      | [19.2c, 19.3a, 19.4a,c, 20.1cehk, 20.4a,b,c,d, 21.1b, 21.2c, 21.4, 21.5, 21.7, 21.10, 21.12](./homework_solutions/homework_11_solns.pdf) |
 |                                                                          | [Practice Quiz 9](./quizzes/practice_quiz_09.pdf) | [Solutions](./quizzes/practice_quiz_09_solns.pdf) |
 |                                                                          | [Quiz 9](./quizzes/quiz_09.pdf)                   | [Solutions](./quizzes/quiz_09_solns.pdf) |
