@@ -65,3 +65,10 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 11      | [19.2c, 19.3a, 19.4a,c, 20.1cehk, 20.4a,b,c,d, 21.1b, 21.2c, 21.4, 21.5, 21.7, 21.10, 21.12](./homework_solutions/homework_11_solns.pdf) |
 |                                                                          | [Practice Quiz 9](./quizzes/practice_quiz_09.pdf) | [Solutions](./quizzes/practice_quiz_09_solns.pdf) |
 |                                                                          | [Quiz 9](./quizzes/quiz_09.pdf)                   | [Solutions](./quizzes/quiz_09_solns.pdf) |
+|                                                                | Week 12 | [Day 32](./daily_lectures/day32.pdf) |
+|                                                                          |                  | [Day 33](./daily_lectures/day33.pdf) |
+|                                                                          |                  | Exam 3 Day |
+|                                                                          | Homework 12      | [21.....](./homework_solutions/homework_12_solns.pdf) |
+|                                                                          | [Practice Exam 3](./exams/practice_exam_03.pdf) | [Solutions](./exams/practice_exam_03_solns.pdf) |
+|                                                                          | [Exam 3](./exams/exam_03.pdf)                   | [Solutions](./exams/exam_03_solns.pdf) |
+
