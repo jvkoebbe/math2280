@@ -68,7 +68,7 @@ Math 2280 Course Materials for Students
 | Problem Session for Exam III - Thursday, Apr 4 - 6pm to 8pm - ENGR-201   | Week 12 | [Day 32](./daily_lectures/day32.pdf) |
 |                                                                          |                  | [Day 33](./daily_lectures/day33.pdf) |
 |                                                                          |                  | Exam 3 Day |
-|                                                                          | Homework 12      | [22.1bd, 22.3a,d, 22.5b, 22c.d, 22.9a, 22.10c,h, 22.11a,c, 22.12a, 22.13a](./homework_solutions/homework_12_solns.pdf) |
+|                                                                          | Homework 12      | [22.1bd, 22.3a,d, 22.5b, 22.7c.d, 22.9a, 22.10c,h, 22.11a,c, 22.12a, 22.13a](./homework_solutions/homework_12_solns.pdf) |
 |                                                                          | [Practice Exam 3](./exams/practice_exam_03.pdf) | [Solutions](./exams/practice_exam_03_solns.pdf) |
 |                                                                          | [Exam 3](./exams/exam_03.pdf)                   | [Solutions](./exams/exam_03_solns.pdf) |
 |                                                                | Week 13 | [Day 34](./daily_lectures/day34.pdf) |
