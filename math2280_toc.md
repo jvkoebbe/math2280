@@ -77,3 +77,9 @@ Math 2280 Course Materials for Students
 |                                                                          | Homework 13      | [24.1bdf,g,l, 24.2a, 25.38, 26.6abeg, 26.7cd, 26.8aehi, 26.a, 27.1abcghi, 27.2ab](./homework_solutions/homework_13_solns.pdf) |
 |                                                                          | [Practice Quiz 10](./quizzes/practice_quiz_10.pdf) | [Solutions](./quizzes/practice_quiz_10_solns.pdf) |
 |                                                                          | [Quiz 10](./quizzes/quiz_10.pdf)                   | [Solutions](./quizzes/quiz_10_solns.pdf) |
+|                                                                | Week 14 | [Day 37](./daily_lectures/day37.pdf) |
+|                                                                          |                  | [Day 38](./daily_lectures/day38.pdf) |
+|                                                                          |                  | [Day 39](./daily_lectures/day39.pdf) |
+|                                                                          | Homework 14      | [27.5ac, 27.8ab, 28.be, 28.4ab, 28.6b, 28.8ad, 29.2acfh, 29.4ce, 29.5b](./homework_solutions/homework_14_solns.pdf) |
+|                                                                          | [Practice Quiz 11](./quizzes/practice_quiz_10.pdf) | [Solutions](./quizzes/practice_quiz_11_solns.pdf) |
+|                                                                          | [Quiz 11](./quizzes/quiz_11.pdf)                   | [Solutions](./quizzes/quiz_11_solns.pdf) |
