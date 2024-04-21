@@ -80,7 +80,7 @@ Math 2280 Course Materials for Students
 |                                                                | Week 14 | [Day 37](./daily_lectures/day37.pdf) |
 |                                                                          |                  | [Day 38](./daily_lectures/day38.pdf) |
 |                                                                          |                  | [Day 39](./daily_lectures/day39.pdf) |
-|                                                                          | Homework 14      | [27.5ac, 27.8ab, 28.be, 28.4ab, 28.6b, 28.8ad, 29.2acfh, 29.4ce, 29.5b](./homework_solutions/homework_14_solns.pdf) |
+|                                                                          | Homework 14      | [27.5ac, 27.8ab, 28.2be, 28.4ab, 28.6b, 28.8ad, 29.2acfh, 29.4ce, 29.5b](./homework_solutions/homework_14_solns.pdf) |
 |                                                                          | [Practice Quiz 11](./quizzes/practice_quiz_10.pdf) | [Solutions](./quizzes/practice_quiz_11_solns.pdf) |
 |                                                                          | [Quiz 11](./quizzes/quiz_11.pdf)                   | [Solutions](./quizzes/quiz_11_solns.pdf) |
 |                                                                | Week 15 |  |
